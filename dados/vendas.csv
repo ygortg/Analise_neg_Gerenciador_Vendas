@@ -1,0 +1,44 @@
+id_venda,data_hora,produto_id,produto,categoria,preco_unitario,quantidade,subtotal
+1,2026-07-02 10:15:00,3,Redmi Note 13,Smartphones,1299.90,1,1299.90
+1,2026-07-02 10:15:00,8,Película de vidro,Acessórios,39.90,1,39.90
+2,2026-07-05 14:20:00,1,Galaxy A55,Smartphones,1899.90,1,1899.90
+2,2026-07-05 14:20:00,6,Cabo USB-C reforçado,Cabos reforçados,59.90,2,119.80
+3,2026-07-09 16:40:00,4,Fone Bluetooth JBL,Fones Bluetooth,349.90,1,349.90
+4,2026-07-13 11:05:00,2,iPhone 15,Smartphones,4499.00,1,4499.00
+4,2026-07-13 11:05:00,5,Carregador por indução,Carregadores,129.90,1,129.90
+5,2026-07-18 09:30:00,7,Suporte automotivo,Suportes automotivos,89.90,2,179.80
+5,2026-07-18 09:30:00,6,Cabo USB-C reforçado,Cabos reforçados,59.90,1,59.90
+6,2026-07-22 18:10:00,3,Redmi Note 13,Smartphones,1299.90,1,1299.90
+6,2026-07-22 18:10:00,4,Fone Bluetooth JBL,Fones Bluetooth,349.90,1,349.90
+6,2026-07-22 18:10:00,8,Película de vidro,Acessórios,39.90,2,79.80
+7,2026-07-27 15:25:00,5,Carregador por indução,Carregadores,129.90,2,259.80
+8,2026-08-01 10:00:00,1,Galaxy A55,Smartphones,1899.90,1,1899.90
+8,2026-08-01 10:00:00,8,Película de vidro,Acessórios,39.90,1,39.90
+9,2026-08-04 13:50:00,6,Cabo USB-C reforçado,Cabos reforçados,59.90,3,179.70
+10,2026-08-08 17:15:00,2,iPhone 15,Smartphones,4499.00,1,4499.00
+10,2026-08-08 17:15:00,4,Fone Bluetooth JBL,Fones Bluetooth,349.90,1,349.90
+11,2026-08-12 12:30:00,3,Redmi Note 13,Smartphones,1299.90,2,2599.80
+11,2026-08-12 12:30:00,8,Película de vidro,Acessórios,39.90,2,79.80
+12,2026-08-16 09:45:00,7,Suporte automotivo,Suportes automotivos,89.90,1,89.90
+12,2026-08-16 09:45:00,5,Carregador por indução,Carregadores,129.90,1,129.90
+13,2026-08-20 16:20:00,1,Galaxy A55,Smartphones,1899.90,1,1899.90
+13,2026-08-20 16:20:00,6,Cabo USB-C reforçado,Cabos reforçados,59.90,1,59.90
+13,2026-08-20 16:20:00,8,Película de vidro,Acessórios,39.90,1,39.90
+14,2026-08-25 19:00:00,4,Fone Bluetooth JBL,Fones Bluetooth,349.90,2,699.80
+15,2026-09-02 11:10:00,3,Redmi Note 13,Smartphones,1299.90,1,1299.90
+15,2026-09-02 11:10:00,5,Carregador por indução,Carregadores,129.90,1,129.90
+15,2026-09-02 11:10:00,6,Cabo USB-C reforçado,Cabos reforçados,59.90,2,119.80
+16,2026-09-06 14:35:00,2,iPhone 15,Smartphones,4499.00,1,4499.00
+16,2026-09-06 14:35:00,8,Película de vidro,Acessórios,39.90,2,79.80
+17,2026-09-10 10:50:00,1,Galaxy A55,Smartphones,1899.90,2,3799.80
+17,2026-09-10 10:50:00,7,Suporte automotivo,Suportes automotivos,89.90,1,89.90
+18,2026-09-14 18:05:00,4,Fone Bluetooth JBL,Fones Bluetooth,349.90,1,349.90
+18,2026-09-14 18:05:00,6,Cabo USB-C reforçado,Cabos reforçados,59.90,2,119.80
+19,2026-09-19 15:40:00,3,Redmi Note 13,Smartphones,1299.90,1,1299.90
+19,2026-09-19 15:40:00,8,Película de vidro,Acessórios,39.90,3,119.70
+20,2026-09-23 12:00:00,2,iPhone 15,Smartphones,4499.00,1,4499.00
+20,2026-09-23 12:00:00,5,Carregador por indução,Carregadores,129.90,1,129.90
+20,2026-09-23 12:00:00,4,Fone Bluetooth JBL,Fones Bluetooth,349.90,1,349.90
+21,2026-09-25 21:58:00,4,Fone Bluetooth JBL,Fones Bluetooth,349.90,1,349.90
+21,2026-09-25 21:58:00,1,Galaxy A55,Smartphones,1899.90,1,1899.90
+21,2026-09-25 21:58:00,3,Redmi Note 13,Smartphones,1299.90,1,1299.90
